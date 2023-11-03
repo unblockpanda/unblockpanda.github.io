@@ -7,7 +7,14 @@ Play Shadow's Games -> [[CLICK HERE]](shadowgmes) ( rlly good games! )
 Play Native Games -> [[CLICK HERE]](nativegames) ( LOTS of fun games )
 ## ------------------------------------------------
 ## Web Games
-Play Web Games -> [[CLICK HERE]](webgames) ( A collection of random HTML5 games, flash games, and webretro games )
+Play Web Games -> [[CLICK HERE]](webgames) ( A collection of random HTML5, flash, and webretro games )
 ## ------------------------------------------------
+# INDIVIDUAL GAMES
+## ------------------------------------------------
+## Cookie Clicker
+Play Cookie Clicker -> [[CLICK HERE]](cookieclicker) ( click a cookie! )
+## ------------------------------------------------
+
 ### the perfect place for procrastination :)
 i made this website bc bidoofery.github.io got blocked at my school lol
+
