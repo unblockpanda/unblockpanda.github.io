@@ -11,8 +11,7 @@ Play MathGames66 -> [[CLICK HERE]](mathgames66) ( omg very fancy )
 ## ------------------------------------------------
 ## Web Games
 Play Web Games -> [[CLICK HERE]](webgames) ( A collection of random HTML5, flash, and webretro games )
-## ------------------------------------------------
-## ------------------------------------------------
+# ------------------------------------------------
 # INDIVIDUAL GAMES
 ## ------------------------------------------------
 ## Cookie Clicker
